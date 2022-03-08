@@ -129,4 +129,7 @@ dmypy.json
 .pyre/
 
 # DS Store
-.DS_Store
+**/.DS_Store
+
+# Data
+2019-2020_NSCH_CSV_CAHMI_DRC/
